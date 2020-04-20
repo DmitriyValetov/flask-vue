@@ -19,5 +19,5 @@ export default new Router({
       component: Ping,
     },
   ],
-  mode: 'hash',
+  mode: 'history',
 });
